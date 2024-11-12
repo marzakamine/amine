@@ -1,0 +1,61 @@
+body {
+			margin: 0;
+			padding: 0;
+			font-family: Arial, sans-serif;
+			background-color: #f1f1f1;
+		}
+
+		.container {
+			width: 80%;
+			margin: auto;
+			background-color: #fff;
+			padding: 20px;
+			box-shadow: 0 0 10px rgba(0,0,0,0.2);
+			margin-top: 20px;
+		}
+
+		.banner {
+			height: 300px;
+			background-image: url('https://as1.ftcdn.net/v2/jpg/00/61/15/26/1000_F_61152601_5mgyA8bCdT9qILtlOjPn6WoZJQHj4dvz.jpg');
+			background-size: cover;
+			background-position: center;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			color: #fff;
+			text-align: center;
+			font-size: 48px;
+			font-weight: bold;
+		}
+
+		.tools {
+			padding: 50px 0;
+			text-align: center;
+		}
+
+		.ai {
+			padding: 50px 0;
+			text-align: center;
+		}
+
+		.openai {
+			padding: 50px 0;
+			text-align: center;
+		}
+
+		.news {
+			padding: 50px 0;
+			text-align: center;
+		}
+
+		h2 {
+			font-size: 36px;
+			font-weight: bold;
+			margin-bottom: 30px;
+		}
+
+		p {
+			font-size: 24px;
+			line-height: 1.5;
+		}
